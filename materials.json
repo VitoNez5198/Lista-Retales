@@ -1,0 +1,5 @@
+{
+    "tipos": ["s101", "s106", "s112", "n1", "n55"],
+    "colores": ["Mate", "Madera", "Titanio", "Antracita", "Blanco", "Negro", "Natural"],
+    "lineas": ["Next", "Basic", "Select", "Shower", "Solo Perfil", "Celosia"]
+}
