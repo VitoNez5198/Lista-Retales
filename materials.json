@@ -1,5 +1,5 @@
 {
-    "tipos": ["s101", "s106", "s112", "n1", "n55"],
+    "tipos": ["S01", "S02", "S03", "S16", "S17", "S19", "S29", "S30", "S41", "S43", "S101", "S102", "S103", "S106", "S107", "S111", "S112", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N10", "N11", "N12", "N13",  "N14", "N16", "N51", "N52","N53", "N54",  "N55", "T50x13", "T80x40", "A50x25", "B7815", "B7803"],
     "colores": ["Mate", "Madera", "Titanio", "Antracita", "Blanco", "Negro", "Natural"],
-    "lineas": ["Next", "Basic", "Select", "Shower", "Solo Perfil", "Celosia"]
+    "lineas": ["Next", "Basic", "Select", "Shower", "Solo Perfil", "Celosia", "Otro"]
 }
